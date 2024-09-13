@@ -22,13 +22,29 @@ multilingual: true
 </div>
 
 
-{% if site.disqus_username %}
+<!-- {% if site.disqus_username %}
 <!-- disqus 评论框 start -->
 <div class="comment">
     <div id="disqus_thread" class="disqus-thread">
 
     </div>
+</div> -->
+
+{% if site.disqus.shortname %}
+<!-- Disqus 댓글 시스템 시작 -->
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread"></div>
 </div>
+<script>
+    (function() {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+{% endif %}
+
 <!-- disqus 评论框 end -->
 
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
