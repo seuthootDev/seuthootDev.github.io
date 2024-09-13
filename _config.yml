@@ -59,10 +59,8 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-# disqus_username: seunghoon_jung
-disqus:
-  shortname: https-seuthootdev-github-io
-  
+disqus_username: https-seuthootdev-github-io
+
 # Netease settings
 netease_comment: false
 
