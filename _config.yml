@@ -16,9 +16,9 @@ RSS: false
 weibo_username: seuthoot
 resume_username: jungseunghoon
 github_username: seuthootDev
-twitter_username: seuthootDev
+twitter_username: seuthoot
 #facebook_username:  seuthootDev
-#linkedin_username:  firstname-lastname-idxxxx
+linkedin_username:  seuthootdev
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
