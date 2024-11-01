@@ -81,7 +81,7 @@ tags:
 
 <span style="background-color: lightgreen;">rain check</span> 직적하면 '비가 오는지 체크하는 것'인데, 옛날 사람들은 비가올지 안 올지 알수가 없었기 때문에 갑자기 비가온다면, 약속 운동경기 등등 취소되는 경우가 많았을 것이다. 즉 이것은 '연기하다' 라는 뜻이 된다.<br>
 
-<span style="background-color: lightgreen;">Technically</span> '기술적으로' 라는 뜻이지만, 사실은 별다른 뜻이 없다. 방금 말한 '사실은' 이런 의미로 쓰였다.<br>
+<span style="background-color: lightgreen;">Technically</span> '기술적으로' 라는 뜻이지만, 여기선 '엄밀히 따지자면, 굳이' 이런식으로 쓰였다.<br>
 
 <span style="background-color: lightgreen;">I’m working VS I’m working on it</span> '나는 일하는 중' vs '나는 이것을 하는 중'<br>
 
