@@ -26,7 +26,7 @@ Beginners feel a sense of pride when they use everything they possibly can. Late
 Avoid this mistake by keeping pride aside and choosing only the necessary technologies with the best industry standards. I made this mistake when I started learning front-end frameworks and libraries. It resulted in more code, more bugs, and massive refactoring costs. Follow the DRY, KISS, or YAGNI standards.
 
 ----------------------------------------------------------------------
-#해석
+# 해석
 
 기술 부채?, 과도한 에지니어링 그게 효과적일까? 개발자들은 '어플리케이션을 어떻게 활용하는가?' 보다 기술적인 것에 집중하곤 함 요구사항을 바탕으로 코드를 짜지 않음, 백엔드 개발자가 요구사항에 기반한 기술을 사용한다면, 시간과 노력을 절약할 수 있다.
 
