@@ -12,7 +12,7 @@ tags:
 
 Medium 이라는 사이트에서 영어공부겸 개발관련 포스트를 읽는 중에, 좋은 포스트를 발견했다.<br>
 
-# Mistake 1<br>
+# Mistake 1 ~~1에서 5까지 있는데 1만 해석함~~<br>
 Technical Debt. Over-engineering. Does that ring a bell? Often, developers shift their focus to the technical side rather than understanding how the user will utilize the application. Based on those requirements, they don’t write their code. If back-end engineers used technologies based on the requirements, they would significantly reduce the required effort and cost.
 
 Mostly, beginners fall for this mistake. As they are new in the field, they don’t know what technologies will serve efficiently for the user while reducing the technical burden. The application becomes slow for the end user when more technologies and processing are required.
