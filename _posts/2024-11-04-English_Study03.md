@@ -1,3 +1,17 @@
+---
+layout: post
+title: "EnglishStudy 03"
+subtitle: "Special Characters"
+author: "Seuthoot"
+header-img: "img/EnglishStudy.jpg"
+header-mask: 0.2
+tags:
+  - blog
+  - EnglishStudy
+---
+
+
+
 | **Character** | **Name/Usage**                                                                   |
 |---------------|----------------------------------------------------------------------------------|
 | !             | **Exclamation mark** - used in commands, not operator in some languages          |
