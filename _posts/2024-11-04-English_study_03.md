@@ -55,6 +55,7 @@ tags:
 | ~             | **Tilde** - used for bitwise NOT and home directory paths                         |
 
 ~~[]는 bracker인데 {}는 brace인 이유가 뭘까~~
+
 ----------------------------------------------------------------------
 
 
