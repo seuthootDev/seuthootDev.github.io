@@ -35,26 +35,26 @@ tags:
 ![](/img/in-post/WebScrapingGemini02.jpg)
 
 
-`
+```
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
 import os
 import google.generativeai as genai
-`
+```
 
 
-`
+```
 st.title("Proposal Calls") # Title for the page
 
 os.environ['GOOGLE_API_KEY'] = "********************************"
 genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 
 model = genai.GenerativeModel('gemini-pro')
-`
+```
 
 
-'
+```
 def read_input():
   # dictionary of all the links to be webscraped.
   # You can add more if you want to
@@ -74,15 +74,15 @@ def read_input():
       # Create a query
        query = data + "name of organization is"+links[str(i)][0]+ "Jumbled links of calls for proposals:"+l+"\n Create a table with the following columns: Call for proposals or joint call for proposals along with respective link, opening date, closing date and the name of the organization."
        llm_function(query)
-'
+```
 
 
 위 코드는 스크래핑을 하는 코드인데, 
 
-`
+```
 links = {
     "1": ["네이버", "https://www.naver.com/"],
     "2": ["다음", "https://www.daum.net/"]
 }
-`
+```
 이해를 위해서 익숙한 네이버와 다음으로 변경하고 결과를 확인했다.
