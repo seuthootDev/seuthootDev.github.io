@@ -33,7 +33,7 @@ tags:
 | {             | **Open curly brace** - used in blocks of code (e.g., functions, loops)          |
 | }             | **Close curly brace** - used in blocks of code (e.g., functions, loops)         |
 | \             | **Backslash** - used for escaping characters                                      |
-| |             | **Vertical bar/Pipe** - used for bitwise OR, logical OR, and piping commands    |
+| \|             | **Vertical bar/Pipe** - used for bitwise OR, logical OR, and piping commands    |
 | ;             | **Semicolon** - used to terminate statements                                       |
 | :             | **Colon** - used in loops, dictionaries, type hints, and ternary operators       |
 | '             | **Single quote** - used for string literals                                        |
