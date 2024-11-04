@@ -81,11 +81,6 @@ tags:
 
 
 ## 예문
-I hope you can make it to the party tomorrow night!<br>
-"내일 밤 파티에 올 수 있기를 바래!"
-
-Sorry, I won't be able to make it to the meeting.<br>
-"미안하지만, 회의에 참석할 수 없을 것 같아."
 
 Let me know if you can make it to the concert next week.<br>
 "다음 주 콘서트에 올 수 있는지 알려줘."
