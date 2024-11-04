@@ -79,17 +79,17 @@ tags:
 
 
 ## 예문
-I hope you can make it to the party tomorrow night!
+I hope you can make it to the party tomorrow night!<br>
 "내일 밤 파티에 올 수 있기를 바래!"
 
-Sorry, I won't be able to make it to the meeting.
+Sorry, I won't be able to make it to the meeting.<br>
 "미안하지만, 회의에 참석할 수 없을 것 같아."
 
-Let me know if you can make it to the concert next week.
+Let me know if you can make it to the concert next week.<br>
 "다음 주 콘서트에 올 수 있는지 알려줘."
 
-I didn't think I could make it to the event, but I managed to find time.
+I didn't think I could make it to the event, but I managed to find time.<br>
 "그 행사에 갈 수 없을 것 같았는데, 시간을 찾을 수 있었어."
 
-She made it to the top of the mountain just in time for sunrise.
+She made it to the top of the mountain just in time for sunrise.<br>
 "그녀는 해돋이에 맞춰 산 정상에 도착했다."
