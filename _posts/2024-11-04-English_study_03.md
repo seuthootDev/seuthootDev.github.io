@@ -48,3 +48,48 @@ tags:
 | ?             | **Question mark** - used in ternary operators and for wildcard characters         |
 | `             | **Backtick** - used for command substitution and string literals in some languages |
 | ~             | **Tilde** - used for bitwise NOT and home directory paths                         |
+
+----------------------------------------------------------------------
+
+# 👉Make
+
+할로윈 파티에 가기로 했는데 못 가게 된 상황에서 뭐라고 문자를 보낼까요?
+
+- **Hey, sorry, I don't think I can go to the party.**  
+  (이렇게 말해도 되지만)
+
+- **Hey, sorry, I don't think I can make it today.**  
+  (이렇게 말하면 "미안한데 나 오늘 그 파티 못 갈 것 같아"라는 의미가 됩니다.)
+
+## Make의 용법
+
+`make`는 다음과 같은 상황에서 사용됩니다:
+
+1. **어딜 가기로 했는데 가지 못할 때**
+   - 예: "I can't make it to the party."  
+   (파티에 못 가겠어.)
+
+2. **뭘 하기로 했는데 못할 때**
+   - 예: "I can't make it to the meeting."  
+   (회의에 못 가겠어.)
+
+3. **뭘 하려고 했는데 할 수 없을 때**
+   - 예: "I couldn't make it to the event."  
+   (행사에 못 갔어.)
+
+
+## 예문
+I hope you can make it to the party tomorrow night!
+"내일 밤 파티에 올 수 있기를 바래!"
+
+Sorry, I won't be able to make it to the meeting.
+"미안하지만, 회의에 참석할 수 없을 것 같아."
+
+Let me know if you can make it to the concert next week.
+"다음 주 콘서트에 올 수 있는지 알려줘."
+
+I didn't think I could make it to the event, but I managed to find time.
+"그 행사에 갈 수 없을 것 같았는데, 시간을 찾을 수 있었어."
+
+She made it to the top of the mountain just in time for sunrise.
+"그녀는 해돋이에 맞춰 산 정상에 도착했다."
