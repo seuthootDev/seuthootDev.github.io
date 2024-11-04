@@ -9,9 +9,9 @@ tags:
   - blog
   - EnglishStudy
 ---
-특수문자를 영어로 공부해본 적은 한번도 없는것 같다.
-슬래시, 콜론, 세미콜론 등 영어로 사용하는 것들을 제외하고는 몰랐던 것이 많아서,(아마도 한국어로도 있겠지만)
-오늘 한번 제대로 외워보려고 한다.
+특수문자를 영어로 공부해본 적은 한번도 없는것 같다.<br>
+슬래시, 콜론, 세미콜론 등 영어로 사용하는 것들을 제외하고는 몰랐던 것이 많아서,(아마도 한국어로도 있겠지만)<br>
+오늘 한번 제대로 외워보려고 한다.<br>
 
 --------------------------------------------------------------------------
 
@@ -90,12 +90,12 @@ tags:
 
 ## 예문(드래그)
 
-"다음 주 콘서트에 올 수 있는지 알려줘."
+"다음 주 콘서트에 올 수 있는지 알려줘."<br>
 <span style="color: white;">Let me know if you can make it to the concert next week.<br></span>
 
 
-"그 행사에 갈 수 없을 것 같았는데, 시간을 찾을 수 있었어."
+"그 행사에 갈 수 없을 것 같았는데, 시간을 찾을 수 있었어."<br>
 <span style="color: white;">I didn't think I could make it to the event, but I managed to find time.<br></span>
 
-"그녀는 해돋이에 맞춰 산 정상에 도착했다."
+"그녀는 해돋이에 맞춰 산 정상에 도착했다."<br>
 <span style="color: white;">She made it to the top of the mountain just in time for sunrise.<br></span>
