@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "웹 스크래핑 + 구글 Gemini"
