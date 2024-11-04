@@ -9,14 +9,17 @@ tags:
   - blog
   - EnglishStudy
 ---
+특수문자를 영어로 공부해본 적은 한번도 없는것 같다.
+슬래시, 콜론, 세미콜론 등 영어로 사용하는 것들을 제외하고는 몰랐던 것이 많아서,(아마도 한국어로도 있겠지만)
+오늘 한번 제대로 외워보려고 한다.
+--------------------------------------------------------------------------
 
 # Special Characters
-특수문자를 영어로 공부해본 적이 없는것 같아 이번 기회에 학습해보려고 한다.
 
 | **Character** | **Name/Usage**                                                                   |
 |---------------|----------------------------------------------------------------------------------|
 | !             | **Exclamation mark** - used in commands, not operator in some languages          |
-| `             | **At sign** - used for decorators in Python, email addresses, annotations        |
+| @             | **At sign** - used for decorators in Python, email addresses, annotations        |
 | #             | **Hash** - used for comments in many languages (e.g., Python)                   |
 | $             | **Dollar sign** - used in variables in some languages (e.g., PHP, shell scripting) |
 | %             | **Percent sign** - used as modulo operator or format specifier                   |
@@ -50,8 +53,12 @@ tags:
 | `             | **Backtick** - used for command substitution and string literals in some languages |
 | ~             | **Tilde** - used for bitwise NOT and home directory paths                         |
 
+~~[]는 bracker인데 {}는 brace인 이유가 뭘까~~
 ----------------------------------------------------------------------
-`make`가 여러가지 의미로 활용되는 것은 알고 있었지만, 몰랐던 활용법에 대해서 공부해보자
+
+
+다음은 `make`의 활용법에서 공부해보려고 한다.
+
 
 # 👉Make
 
@@ -80,13 +87,14 @@ tags:
    (행사에 못 갔어.)
 
 
-## 예문
+## 예문(드래그)
 
-Let me know if you can make it to the concert next week.<br>
 "다음 주 콘서트에 올 수 있는지 알려줘."
+<span style="color: white;">Let me know if you can make it to the concert next week.<br></span>
 
-I didn't think I could make it to the event, but I managed to find time.<br>
+
 "그 행사에 갈 수 없을 것 같았는데, 시간을 찾을 수 있었어."
+<span style="color: white;">I didn't think I could make it to the event, but I managed to find time.<br></span>
 
-She made it to the top of the mountain just in time for sunrise.<br>
 "그녀는 해돋이에 맞춰 산 정상에 도착했다."
+<span style="color: white;">She made it to the top of the mountain just in time for sunrise.<br></span>
