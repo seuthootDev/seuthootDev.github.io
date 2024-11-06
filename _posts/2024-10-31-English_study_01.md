@@ -92,6 +92,5 @@ tags:
 다시 보면 어렵지 않았던 거 같지만, 처음 저 문장들을 받았을 땐 정말 생소했다.<br>
 까먹을 만 하면, 다시 와서 복습해 봐야겠다.<br>
 
-우리 과외선생님 노션을 레퍼런스로 남긴다.<br>
 [노션 링크](https://wonnieworld.notion.site/Tech-English-tutoring-en-126faba5b99f815793ddecd5e646f727)
 
