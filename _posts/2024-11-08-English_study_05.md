@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EnglishStudy 05"
-subtitle: "Share my experience about two job interviews"
+subtitle: "Sharing my experience about two job interviews"
 author: "Seuthoot"
 header-img: "img/EnglishStudy.jpg"
 header-mask: 0.2
