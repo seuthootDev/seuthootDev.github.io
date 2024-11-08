@@ -17,18 +17,18 @@ tags:
 
 
 
+<!--
+Hi, I’m going to say my experience about two job interviews that I had this week.
 
+Hm, what should I say first? The first company I visit for interview was about Metaverse, virtual reality, smart 관제 services for business of a lot of fields.
 
-//Hi, I’m going to say my experience about two job interviews that I had this week.
+Well, I’m using a 3D visualization tool KIP for my project of current company.
 
-//Hm, what should I say first? The first company I visit for interview was about Metaverse, virtual reality, smart 관제 services for business of a lot of fields.
+So of course I have some knowledge about 3D environment.
 
-//Well, I’m using a 3D visualization tool KIP for my project of current company.
+That’s why I applied to the company that suggested me an interview.
 
-//So of course I have some knowledge about 3D environment.
+Metaverse, virtual reality, smart 관제 services need knowledge about 3D environment I think.
 
-//That’s why I applied to the company that suggested me an interview.
-
-//Metaverse, virtual reality, smart 관제 services need knowledge about 3D environment I think.
-
-//anyways, 
+anyways, 
+-->
