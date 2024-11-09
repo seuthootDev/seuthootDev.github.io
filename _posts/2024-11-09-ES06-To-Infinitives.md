@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6-Day Mastery Plan for "To-Infinitives"
+title: "6 Day Mastery Plan for "To Infinitives"
 subtitle: "Day 1 목적과 이유 표현하기"
 author: "Seuthoot"
 header-img: "img/EnglishStudy.jpg"
