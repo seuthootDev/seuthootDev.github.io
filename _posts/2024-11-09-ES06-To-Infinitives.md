@@ -56,9 +56,13 @@ tags:
 1. "I’m learning English **to make** my career better."👉 "내 커리어를 위해 영어를 배우고 있어."
 2. "I go to gym every day **to get** muscular body."👉 "몸짱 되고싶어서 매일 헬스장에 가"
 3. "I don't eat anything for dinner **to lose** weight."👉 "살빼려고 저녁을 안 먹어"
-4. "I made my portfolio **to chage** jobs"👉 "이직을 위한 포폴을 만들었어"
+4. "I made my portfolio **to change** jobs"👉 "이직을 위한 포폴을 만들었어"
 5. "I drink coffee **to stay** awake"👉 "잠깨려고 커피 먹음"
-6. 
+6. "I read a posts on Medium **to study** English"👉 "영어공부 하려고 메디움에서 기사 읽음"
+7. "I don't order delivary food **to save** money"👉 "돈 아끼려고 배달음식 안 먹음"
+8. "I wear a warm clothes **to keep** my body warm"👉 "따뜻하게 따뜻한 옷을 입음"
+9. "I'm waiting for Nomemver 24 **to enjoy** a good food at the Goon mong famous restaurant"👉 "군몽에서 맛있는거 먹으려고 11월 24일을 기다리는 중"
+10. "I just turned on my laptop **to post** it"👉 "이거 올리려고 노트북 킴"
 
 
 
