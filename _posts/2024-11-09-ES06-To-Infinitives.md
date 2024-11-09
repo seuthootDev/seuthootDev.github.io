@@ -61,7 +61,7 @@ tags:
 6. "I read a posts on Medium **to study** English"👉 "영어공부 하려고 메디움에서 기사 읽음"
 7. "I don't order delivary food **to save** money"👉 "돈 아끼려고 배달음식 안 먹음"
 8. "I wear a warm clothes **to keep** my body warm"👉 "따뜻하게 따뜻한 옷을 입음"
-9. "I'm waiting for Nomemver 24 **to enjoy** a good food at the Goon mong famous restaurant"👉 "군몽에서 맛있는거 먹으려고 11월 24일을 기다리는 중"
+9. "I'm waiting for Nomemver 24 **to enjoy** a good food at the Goon Mong famous restaurant"👉 "군몽에서 맛있는거 먹으려고 11월 24일을 기다리는 중"
 10. "I just turned on my laptop **to post** it"👉 "이거 올리려고 노트북 킴"
 
 
