@@ -72,7 +72,7 @@ It was hard to me but actally not that much cuz i didnt lie at all. every things
 
 One of them ask me after my presentation "did you do anything funny in your workplace"?
 
-And i said "yes i did. that wastransforming SLAB code from Fortran to Python. it was a big chellange for me and made my CS knowledge better. i throught my logic has no problem but the results were diffirent and i figured out it. there are Single Precision and Double Precision.
+And i said "yes i did. that was transforming SLAB code from Fortran to Python. it was a big chellange for me and made my CS knowledge better. i throught my logic has no problem but the results were diffirent and i figured out it. there are Single Precision and Double Precision.
 Fortran's variables are Double Precision but Python's are Single Precision so it made the diffirence"
 
 He said he impressed this exprience of mine
