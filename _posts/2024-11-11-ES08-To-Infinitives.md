@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6 Day Mastery Plan for \"To Infinitives\""
-subtitle: "Day 3 감정이나 이유 설명하기"
+subtitle: "Day 3 의도나 계획 설명하기"
 author: "Seuthoot"
 header-img: "img/EnglishStudy.jpg"
 header-mask: 0.2
