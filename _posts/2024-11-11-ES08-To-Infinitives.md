@@ -46,14 +46,13 @@ tags:
 
 --------------------------------------------------
 ### 내 상황 예시 10개
-<!--
-1. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야."
-2. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야."
-3. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야."
-4. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야."
-5. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야."
-6. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야."
-7. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야."
-8. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야."
-9. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야."
-10. "I’m planning **to implement** a new feature."👉 "새로운 기능을 구현할 계획이야." -->
+1. "I’m fighting with myself **to be** consistent."👉 "일관적이기 위해 나 자신과 싸우고 있어."
+2. "I’m planning **to get** a new certification."👉 "새로운 자격증을 딸 계획이야."
+3. "I’m considering **to take** a class in the acdemy."👉 "새로운 기능을 구현할 계획이야."
+4. "I intend **to lose** my weight."👉 "살을 뺄 계획이야."
+5. "I decided **to go** to the gym every day."👉 "매일 헬스장에 가기로 맘먹었어."
+6. "I expect **to improve** my English skill."👉 "내 영어 스킬이 늘길 기대해."
+7. "I aim **to implement** a new feature."👉 "새로운 기능을 구현하는 게 목표야."
+8. "I promised **to buy** milk for my mom."👉 "엄마한테 우유 사간다고 약속했어."
+9. "I hope **to achieve** all my goals."👉 "내 모든 목표를 이루길 바라."
+10. "I want **to sell** my old skateboard."👉 "내 오래된 스케이트 보드를 팔고싶어."
