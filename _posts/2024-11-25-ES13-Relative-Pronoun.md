@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6-Day Guide to Mastering “관계대명사”"
-subtitle: "Day 1: “Who” - People Who Make a Difference!"
+subtitle: "Day 2: “Which” - Things & Animals with a Story!"
 author: "Seuthoot"
 header-img: "img/EnglishStudy.jpg"
 header-mask: 0.2
@@ -10,64 +10,64 @@ tags:
   - EnglishStudy
 ---
 
-## 관계대명사 정복하기 1일차
+## 관계대명사 정복하기 2일차
 
 --------------------------------------------------
 
 
-- **Day 1: "Who" - People Who Make a Difference! 👤**
-    - "The girl who is singing is my sister."
+- **Day 2: "Which" - Things & Animals with a Story! 🐱📚**
+    - "The book which is on the table is mine."
         
-        👉 노래 부르는 저 애가 우리 동생이야.
+        👉 테이블 위에 있는 책 내 거야.
         
-    - "He is the one who made the cake."
+    - "This is the movie which I watched last night."
         
-        👉 케이크 만든 사람 바로 저 사람이야.
+        👉 이거 어젯밤에 본 영화야.
         
-    - "She’s the teacher who taught me math."
+    - "The dog which barked all night belongs to my neighbor."
         
-        👉 나한테 수학 가르쳐 준 선생님이야.
+        👉 밤새 짖던 강아지, 우리 옆집 개야.
         
-    - "The man who fixed my car was very kind."
+    - "The chair which is broken needs to be fixed."
         
-        👉 내 차 고쳐준 아저씨 진짜 친절했어.
+        👉 저 부서진 의자 고쳐야 해.
         
-    - "The people who live next door are very friendly."
+    - "The cake which she baked was delicious."
         
-        👉 옆집 사는 분들 진짜 친절해.
+        👉 그분이 구운 케이크 진짜 맛있었어.
         
-    - "I met a friend who loves pizza."
+    - "The painting which you see here is famous."
         
-        👉 피자 엄청 좋아하는 친구 만났어.
+        👉 여기 보이는 그림 유명해.
         
-    - "The doctor who treated me was excellent."
+    - "The car which he drives is very fast."
         
-        👉 나 진료해준 의사 선생님 진짜 최고였어.
+        👉 걔가 모는 차 진짜 빨라.
         
-    - "The woman who works at the bank is my aunt."
+    - "This is the house which we rented for the summer."
         
-        👉 은행에서 일하는 분이 우리 이모야.
+        👉 여름에 우리가 빌렸던 집이야.
         
-    - "The boy who won the race is my classmate."
+    - "The phone which I bought is very expensive."
         
-        👉 그 달리기 우승한 애 내 반 친구야.
+        👉 내가 산 핸드폰 엄청 비싸.
         
-    - "The man who called yesterday is my dad's friend."
+    - "The restaurant which we visited was cozy."
         
-        👉 어제 전화한 사람이 우리 아빠 친구야.
+        👉 우리가 갔던 식당 되게 아늑했어.
 
 ---------------------------------------------------------------
 
 ## 관계대명사 "WHO" 영작 10개
 
-- The teacher who teachs me, is so nice
-- He is a coffee lover who drinks coffee every day
-- She was my first love who hurt me
-- The man is my boss who give me a job
-- He is a student who is very smart
-- Do you remember the woman who i told you about before?
-- The woman who works at the cafe is my mom
-- I want to find a girl who has same goal with me (shares the same goal as me)
-- He is my friend who i met 10 years ago
-- I don't like people who are selfish
+- The test which I took last Saturday was the AWS
+- This phone which I just bought is really great
+- This pigure which I brought from Japan is nice
+- I want to have a hamburger which has onions
+- I'm looking for a car which is super fast
+- You have legs which are very long
+- The movie which is my favorite one was top of box office
+- The lecture which I'm taking now is the CCNA lectore
+- This website which I'm looking at is GitHub
+- I really like to have kimchi which is made by my mom
 
