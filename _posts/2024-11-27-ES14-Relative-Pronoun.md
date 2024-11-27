@@ -1,3 +1,20 @@
+---
+layout: post
+title: "6-Day Guide to Mastering “관계대명사”"
+subtitle: "Day 3: “That” - The All-Rounder for People & Things!"
+author: "Seuthoot"
+header-img: "img/EnglishStudy.jpg"
+header-mask: 0.2
+tags:
+  - blog
+  - EnglishStudy
+---
+
+## 관계대명사 정복하기 2일차
+
+--------------------------------------------------
+
+
 - **Day 3: "That" - The All-Rounder for People & Things! 🌍**
     - "The book that I read was interesting."
         
@@ -38,3 +55,21 @@
     - "The tree that fell in the storm was very old."
         
         👉 폭풍에 쓰러진 나무 엄청 오래된 거였어.
+
+---------------------------------------------------------------
+
+## 관계대명사 "THAT" 영작 10개
+
+- The test that I will take this Saturday is about network
+- This cap that i'm wearing now is so cool
+- This lesson that i just took was great
+- The bag that you brought here looks so heavy
+- This tree that is dead was mine
+- The bug that is there is a roach
+- The company that i work at is so close to my home
+- The message that you sent me yesterday was shocking
+- The girl that has sunglasses is my sister
+- The person that looks stupid in the picture is me
+
+
+
